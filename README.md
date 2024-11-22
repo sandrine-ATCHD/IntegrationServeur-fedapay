@@ -1,3 +1,9 @@
+Gestion des Paiements avec FedaPay et Laravel
+
+Ce projet est un système de gestion de paiements en ligne, construit avec Laravel, qui utilise l'API de FedaPay pour traiter les transactions. Les utilisateurs peuvent effectuer des paiements, consulter les détails des transactions, et recevoir des notifications sur le statut des transactions (succès ou échec).
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
